@@ -1,0 +1,21 @@
+[package]
+name = "marketplace"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+leptos = { version = "0.6", features = ["csr"] }
+surrealdb = "1.0"
+axum = "0.7.5"
+tauri = "1.5"
+
+[profile.release]
+opt-level = 'z'
+lto = true
+codegen-units = 1
+
+[package.metadata.trunk]
+[package.metadata.trunk.tailwind]
+version = "3.4.6"
+input = "input.css"
+output = "styles.css"

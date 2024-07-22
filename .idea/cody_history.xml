@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjo0NTcxOTg=" />
+          <chats>
+            <list>
+              <chat>
+                <internalId value="44683c18-c6ff-4aa8-84c7-25486cc524d0" />
+              </chat>
+              <chat>
+                <internalId value="082da44c-cf0e-4511-ab8f-55c2671e516e" />
+              </chat>
+              <chat>
+                <internalId value="5a51dc2d-736f-4005-84a0-54448acda233" />
+              </chat>
+              <chat>
+                <internalId value="026eb13f-b743-426d-88a0-5631a1629c8a" />
+              </chat>
+              <chat>
+                <internalId value="07a258fc-b52d-4b91-a2ee-8bf108ddcbdb" />
+              </chat>
+              <chat>
+                <internalId value="9a882497-abdf-4cf0-96c2-14b423d601a6" />
+              </chat>
+              <chat>
+                <internalId value="804656ca-ffa2-47fd-be8a-96b3c0b213a3" />
+              </chat>
+              <chat>
+                <internalId value="2fc75714-39c3-40c9-acff-df38e2382804" />
+              </chat>
+              <chat>
+                <internalId value="ba2a1303-997e-462d-94d7-3500f699a374" />
+              </chat>
+              <chat>
+                <internalId value="9c5178ae-5215-4573-8333-3a6e8a9ab5cb" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+                <messages>
+                  <list>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="слушай а как в терминал вставлять кусок текста объемный?" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Для вставки большого объема текста в терминал есть несколько удобных способов:&#10;&#10;1. Используйте сочетание клавиш Ctrl+Shift+V (или Cmd+Shift+V на Mac). Это стандартный способ вставки в большинстве терминалов.&#10;&#10;2. Правый клик мыши и выбор &quot;Вставить&quot; из контекстного меню.&#10;&#10;3. Для очень длинного текста можно использовать команду echo с heredoc:&#10;&#10;   ```&#10;   cat &lt;&lt; EOF &gt; file.txt&#10;   Ваш длинный текст здесь...&#10;   EOF&#10;   ```&#10;&#10;   Это запишет текст в файл, который затем можно использовать.&#10;&#10;4. Используйте утилиту xclip (на Linux):&#10;   &#10;   ```&#10;   xclip -sel clip &lt; file.txt&#10;   ```&#10;&#10;   Это скопирует содержимое файла в буфер обмена.&#10;&#10;5. На macOS можно использовать pbpaste:&#10;&#10;   ```&#10;   pbpaste &gt; file.txt&#10;   ```&#10;&#10;Выберите наиболее подходящий для вас метод в зависимости от конкретной ситуации и операционной системы." />
+                    </message>
+                  </list>
+                </messages>
+                <updatedAt value="2024-07-22T02:08:50.9392297" />
+              </chat>
+              <chat>
+                <internalId value="dab68b40-f720-4584-9eef-0a75851101fb" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="3d53efb1-f797-463f-b09d-35b70fa1fd5f" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="0836a7bd-bd11-4522-87f3-39533a7fbc40" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="37d1ce23-1015-47be-acdc-202c069b1745" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="653c7af8-0b87-4863-97e2-866f29f93bdc" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="abfb4340-e83b-4d90-9368-5e84d8091e48" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="3dfac644-b0ae-4c29-84c7-96c0f26af613" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <internalId value="797cfcc4-0fc9-42c8-9652-4c0fa674aa56" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-5-sonnet-20240620" />
+                    <provider value="Anthropic" />
+                    <tags>
+                      <list>
+                        <option value="gateway" />
+                        <option value="accuracy" />
+                        <option value="recommended" />
+                        <option value="free" />
+                      </list>
+                    </tags>
+                    <title value="Claude 3.5 Sonnet" />
+                    <usage>
+                      <list>
+                        <option value="chat" />
+                        <option value="edit" />
+                      </list>
+                    </usage>
+                  </llm>
+                </llm>
+                <messages>
+                  <list>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="приветик - а ты видишь какие-нибудь файлы проекта?)" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Привет! Да, я вижу несколько файлов проекта. Вот что у нас есть:&#10;&#10;1. src/main.rs - основной файл с функцией main() и компонентом App&#10;2. src/lib.rs - файл с другой функцией main()&#10;3. tailwind.config.js - конфигурационный файл для Tailwind CSS&#10;4. index.html - упоминается в конфигурации Tailwind, но содержимое не показано&#10;&#10;Проект выглядит как веб-приложение на Rust, использующее фреймворк Leptos и стили Tailwind CSS. Основной компонент App рендерит простой div с приветственным сообщением, стилизованным с помощью классов Tailwind." />
+                    </message>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="а какие варианты чтобы ты видел весь проект?" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Отличный вопрос! Есть несколько эффективных способов, чтобы я мог видеть весь проект:&#10;&#10;1. Загрузить весь проект в систему контроля версий (например, GitHub) и предоставить мне ссылку на репозиторий.&#10;&#10;2. Использовать инструмент для обмена кодом, такой как GitHub Gist или Pastebin, и поделиться ссылкой со мной.&#10;&#10;3. Постепенно показывать мне содержимое каждого файла в проекте через отдельные сообщения.&#10;&#10;4. Использовать специальный инструмент или плагин, который может автоматически собирать и отправлять содержимое всех файлов проекта в одном сообщении.&#10;&#10;5. Создать архив проекта и найти способ безопасно поделиться им со мной.&#10;&#10;Выбор метода зависит от ваших предпочтений и требований безопасности. Каждый из этих вариантов позволит мне получить более полное представление о структуре и содержании вашего проекта." />
+                    </message>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="а ты точно прочитаешь все с github если я туда загружу его?" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Да, я точно прочитаю весь проект с GitHub, если вы его туда загрузите. Это отличный способ предоставить мне полный доступ ко всем файлам и структуре проекта. Я смогу анализировать код, структуру директорий и даже историю изменений, что позволит мне дать более точные и контекстно-зависимые ответы на ваши вопросы." />
+                    </message>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="ладно давай с нуля как загрузить на github проект - аккаунт и какие-то проекты у меня уже есть на github" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Отлично! Раз у вас уже есть аккаунт и проекты на GitHub, процесс загрузки нового проекта будет простым. Вот пошаговая инструкция:&#10;&#10;1. Создайте новый репозиторий на GitHub:&#10;   - Зайдите на GitHub и нажмите &quot;+&quot; в правом верхнем углу&#10;   - Выберите &quot;New repository&quot;&#10;   - Задайте имя репозитория и другие настройки&#10;   - Нажмите &quot;Create repository&quot;&#10;&#10;2. Подготовьте ваш локальный проект:&#10;   - Откройте терминал и перейдите в директорию проекта&#10;   - Инициализируйте Git: `git init`&#10;   - Добавьте все файлы: `git add .`&#10;   - Сделайте первый коммит: `git commit -m &quot;Initial commit&quot;`&#10;&#10;3. Свяжите локальный репозиторий с GitHub:&#10;   - Скопируйте URL вашего нового репозитория с GitHub&#10;   - Выполните: `git remote add origin URL_РЕПОЗИТОРИЯ`&#10;   - Отправьте изменения: `git push -u origin main`&#10;&#10;Готово! Ваш проект теперь на GitHub. Вы можете поделиться ссылкой на репозиторий, и я смогу его проанализировать." />
+                    </message>
+                  </list>
+                </messages>
+                <updatedAt value="2024-07-22T23:39:09.1527872" />
+              </chat>
+            </list>
+          </chats>
+          <defaultLlm>
+            <llm>
+              <model value="anthropic/claude-3-5-sonnet-20240620" />
+              <provider value="Anthropic" />
+              <tags>
+                <list>
+                  <option value="gateway" />
+                  <option value="accuracy" />
+                  <option value="recommended" />
+                  <option value="free" />
+                </list>
+              </tags>
+              <title value="Claude 3.5 Sonnet" />
+              <usage>
+                <list>
+                  <option value="chat" />
+                  <option value="edit" />
+                </list>
+              </usage>
+            </llm>
+          </defaultLlm>
+        </AccountData>
+      </list>
+    </accountData>
+  </component>
+</project>
